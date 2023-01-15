@@ -1,0 +1,21 @@
+.App {
+    display: grid;
+    margin: 0 auto;
+    padding: 20px 0;
+    max-width: 400px;
+    gap: 10px;
+}
+
+nav{
+    background: #FAFBFF;
+    display: flex;
+    gap: 12px;
+    font-weight: bold;
+    padding: 10px;
+    text-decoration: none;
+}
+a{text-decoration: none;}
+
+a:visited{
+    color: black;
+}

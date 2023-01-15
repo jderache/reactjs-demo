@@ -1,0 +1,15 @@
+  .button-group{
+    display: flex;
+    gap: 5px;
+  }
+  
+  .count-too-high{
+    color: orange;
+  }
+  
+  .warning-message{
+    background: lightyellow;
+    border: 1px solid orange;
+    border-radius: 5px;
+    padding: 20px;
+  }
